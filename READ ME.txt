@@ -1,0 +1,3 @@
+Currently I have a scipt that grabs all stage/race profiles and can download them - i might in the future want to do something 
+more holistic - work on storing more information from here (ie build a cyclcling database infrastructure0 
+rather than just playing with the images
